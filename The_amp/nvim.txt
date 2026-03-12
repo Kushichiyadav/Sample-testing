@@ -1,0 +1,50 @@
+h  ← move left
+j  ↓ move down
+k  ↑ move up
+l  → move right
+
+w  next word
+b  previous word
+e  end of word
+0  start of line
+$  end of line
+
+gg  go to top
+G   go to bottom
+
+i   insert before cursor
+a   insert after cursor
+I   start of line insert
+A   end of line insert
+o   new line below
+O   new line above
+
+x   delete character
+dd  delete entire line
+dw  delete word
+d$  delete to end of line
+
+yy  copy line
+yw  copy word
+
+p   paste after
+P   paste before
+
+u       undo
+Ctrl+r  redo
+
+
+'''
+/word
+n   next result
+N   previous result
+'''
+
+5j   move down 5 lines
+3dd  delete 3 lines
+10w  move 10 words
+
+cw   change word
+cc   change line
+C    change to end of line
+
